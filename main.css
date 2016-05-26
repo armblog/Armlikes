@@ -1,6 +1,6 @@
 body {
             background: #ffffff;
-            background-image: url("https://rawgit.com/armblog/Armlikes/master/Zenbg-1.jpg"), url("https://rawgit.com/armblog/Armlikes/master/Zenbg-2.jpg");
+            background-image: url("https://rawgit.com/armblog/Armlikes/master/zenbg-1.jpg"), url("https://rawgit.com/armblog/Armlikes/master/zenbg-2.jpg");
             background-repeat: repeat-x, repeat;
         }
 
