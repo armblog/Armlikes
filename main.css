@@ -1,6 +1,6 @@
 body {
             background: #ffffff;
-            background-image: url("zenbg-1.jpg"), url("zenbg-2.jpg");
+            background-image: url("https://rawgit.com/armblog/Armlikes/master/zenbg-1.jpg"), url("https://rawgit.com/armblog/Armlikes/master/zenbg-2.jpg");
             background-repeat: repeat-x, repeat;
         }
 
@@ -16,7 +16,7 @@ body {
 
         .article {
             
-            display:inline-block;background: url(https://dl.dropboxusercontent.com/u/43733183/FB/post.png);width:174px;height:174px;position: relative;margin-left:60px; margin-bottom:100px;
+            display:inline-block;background: url(https://rawgit.com/armblog/Armlikes/master/post.png);width:174px;height:174px;position: relative;margin-left:60px; margin-bottom:100px;
         }
 
         .filters, .topButtons {
