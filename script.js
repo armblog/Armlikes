@@ -13,7 +13,7 @@ function createCORSRequest(method, url){
 			return xhr;
 			}
 
-var request = createCORSRequest("get", "https://dl.dropboxusercontent.com/u/43733183/FB/PagesForSite.xml");
+var request = createCORSRequest("get", "https://www.dropbox.com/s/toonvtn5c5w03ni/PagesForSite.xml?dl=1");
 if (request){
     request.onload = function(){
         parseXml(request.responseText);//do something with request.responseText
