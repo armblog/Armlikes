@@ -13,7 +13,7 @@ function createCORSRequest(method, url){
 			return xhr;
 			}
 
-var request = createCORSRequest("get", "https://www.dropbox.com/s/toonvtn5c5w03ni/PagesForSite.xml?dl=1");
+var request = createCORSRequest("get", "https://rawgit.com/armblog/Armlikes/master/PagesForSite.xml");
 if (request){
     request.onload = function(){
         parseXml(request.responseText);//do something with request.responseText
