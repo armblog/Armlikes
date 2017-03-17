@@ -13,7 +13,7 @@ function createCORSRequest(method, url){
 			return xhr;
 			}
 
-var request = createCORSRequest("get", "https://rawgit.com/armblog/Armlikes/master/PagesForSite.xml");
+var request = createCORSRequest("get", "https://rawgit.com/armblog/Armlikes/master/PagesForSite.xml"+"?p="+Math.random(););
 if (request){
     request.onload = function(){
         parseXml(request.responseText);//do something with request.responseText
