@@ -1,6 +1,14 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Pages>
   <Page>
+    <Name>Big Bat +</Name>
+    <PageURL>http://www.facebook.com/Blog.BigBat</PageURL>
+    <Thumbnail>http://graph.facebook.com/Blog.BigBat/picture?type=large</Thumbnail>
+    <Likes>29871760</Likes>
+    <Category>
+    </Category>
+  </Page>
+  <Page>
     <Name>Kim Kardashian</Name>
     <PageURL>http://www.facebook.com/KimKardashian</PageURL>
     <Thumbnail>http://graph.facebook.com/KimKardashian/picture?type=large</Thumbnail>
