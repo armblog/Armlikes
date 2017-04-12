@@ -8,6 +8,14 @@
     <Category>People</Category>
   </Page>
   <Page>
+    <Name>Լավ Վիդեո</Name>
+    <PageURL>http://www.facebook.com/lavvideo</PageURL>
+    <Thumbnail>http://graph.facebook.com/lavvideo/picture?type=large</Thumbnail>
+    <Likes>29901405</Likes>
+    <Category>
+    </Category>
+  </Page>
+  <Page>
     <Name>Շամշադին</Name>
     <PageURL>http://www.facebook.com/Shamshadeen</PageURL>
     <Thumbnail>http://graph.facebook.com/Shamshadeen/picture?type=large</Thumbnail>
