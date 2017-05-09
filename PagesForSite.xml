@@ -7463,6 +7463,14 @@
     </Category>
   </Page>
   <Page>
+    <Name>Հարսանիք բլոգ</Name>
+    <PageURL>http://www.facebook.com/harsaniqblog</PageURL>
+    <Thumbnail>http://graph.facebook.com/harsaniqblog/picture?type=large</Thumbnail>
+    <Likes>4124</Likes>
+    <Category>
+    </Category>
+  </Page>
+  <Page>
     <Name>X-Factor Armenia</Name>
     <PageURL>http://www.facebook.com/XFactorArmenia</PageURL>
     <Thumbnail>http://graph.facebook.com/XFactorArmenia/picture?type=large</Thumbnail>
