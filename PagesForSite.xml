@@ -7639,6 +7639,13 @@
     </Category>
   </Page>
   <Page>
+    <Name>HotTV</Name>
+    <PageURL>http://www.facebook.com/HotTV.am</PageURL>
+    <Thumbnail>http://graph.facebook.com/HotTV.am/picture?type=large</Thumbnail>
+    <Likes>4119</Likes>
+    <Category>Website</Category>
+  </Page>
+  <Page>
     <Name>X-Factor Armenia</Name>
     <PageURL>http://www.facebook.com/XFactorArmenia</PageURL>
     <Thumbnail>http://graph.facebook.com/XFactorArmenia/picture?type=large</Thumbnail>
