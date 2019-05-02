@@ -9235,6 +9235,14 @@
     </Category>
   </Page>
   <Page>
+    <Name>LiveAuction</Name>
+    <PageURL>http://www.facebook.com/liveauction.am</PageURL>
+    <Thumbnail>http://graph.facebook.com/liveauction.am/picture?type=large</Thumbnail>
+    <Likes>1357</Likes>
+    <Category>
+    </Category>
+  </Page>
+  <Page>
     <Name>Հայաստան Աշխարհ</Name>
     <PageURL>http://www.facebook.com/Armenia.World</PageURL>
     <Thumbnail>http://graph.facebook.com/Armenia.World/picture?type=large</Thumbnail>
