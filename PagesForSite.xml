@@ -1,31 +1,119 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Pages updateTime="13/01/2021 14:50">
+<Pages updateTime="05/02/2021 12:27">
   <Page>
     <Name>News.am</Name>
     <PageURL>http://www.facebook.com/newsamarm</PageURL>
     <Thumbnail>http://graph.facebook.com/newsamarm/picture?type=large</Thumbnail>
-    <Likes>730522</Likes>
+    <Likes>731589</Likes>
     <Category>Website</Category>
   </Page>
   <Page>
     <Name>1in.am «Առաջին լրատվական»</Name>
     <PageURL>http://www.facebook.com/1in.am</PageURL>
     <Thumbnail>http://graph.facebook.com/1in.am/picture?type=large</Thumbnail>
-    <Likes>516999</Likes>
+    <Likes>517429</Likes>
     <Category>Website</Category>
+  </Page>
+  <Page>
+    <Name>Aravot</Name>
+    <PageURL>http://www.facebook.com/271803352838187</PageURL>
+    <Thumbnail>http://graph.facebook.com/271803352838187/picture?type=large</Thumbnail>
+    <Likes>262215</Likes>
+    <Category>
+    </Category>
+  </Page>
+  <Page>
+    <Name>hraparak.am</Name>
+    <PageURL>http://www.facebook.com/hraparak</PageURL>
+    <Thumbnail>http://graph.facebook.com/hraparak/picture?type=large</Thumbnail>
+    <Likes>174702</Likes>
+    <Category>
+    </Category>
+  </Page>
+  <Page>
+    <Name>Beauty Of Armenia</Name>
+    <PageURL>http://www.facebook.com/beautyofarmenia</PageURL>
+    <Thumbnail>http://graph.facebook.com/beautyofarmenia/picture?type=large</Thumbnail>
+    <Likes>171596</Likes>
+    <Category>
+    </Category>
+  </Page>
+  <Page>
+    <Name>Գրքամոլ</Name>
+    <PageURL>http://www.facebook.com/209324585777540</PageURL>
+    <Thumbnail>http://graph.facebook.com/209324585777540/picture?type=large</Thumbnail>
+    <Likes>120340</Likes>
+    <Category>
+    </Category>
+  </Page>
+  <Page>
+    <Name>FES HOUSE</Name>
+    <PageURL>http://www.facebook.com/FesHouseCentre</PageURL>
+    <Thumbnail>http://graph.facebook.com/FesHouseCentre/picture?type=large</Thumbnail>
+    <Likes>109293</Likes>
+    <Category>
+    </Category>
+  </Page>
+  <Page>
+    <Name>Armenpress Armen Press</Name>
+    <PageURL>http://www.facebook.com/armenpress</PageURL>
+    <Thumbnail>http://graph.facebook.com/armenpress/picture?type=large</Thumbnail>
+    <Likes>107063</Likes>
+    <Category>
+    </Category>
+  </Page>
+  <Page>
+    <Name>Yerevan</Name>
+    <PageURL>http://www.facebook.com/Yerevan.Armenia</PageURL>
+    <Thumbnail>http://graph.facebook.com/Yerevan.Armenia/picture?type=large</Thumbnail>
+    <Likes>103177</Likes>
+    <Category>
+    </Category>
+  </Page>
+  <Page>
+    <Name>A1plus</Name>
+    <PageURL>http://www.facebook.com/121061077922161</PageURL>
+    <Thumbnail>http://graph.facebook.com/121061077922161/picture?type=large</Thumbnail>
+    <Likes>100918</Likes>
+    <Category>
+    </Category>
+  </Page>
+  <Page>
+    <Name>Tashir Pizza</Name>
+    <PageURL>http://www.facebook.com/tashirpizza</PageURL>
+    <Thumbnail>http://graph.facebook.com/tashirpizza/picture?type=large</Thumbnail>
+    <Likes>99826</Likes>
+    <Category>
+    </Category>
   </Page>
   <Page>
     <Name>Arthur Meschian</Name>
     <PageURL>http://www.facebook.com/Arthur.Meschian</PageURL>
     <Thumbnail>http://graph.facebook.com/Arthur.Meschian/picture?type=large</Thumbnail>
-    <Likes>95958</Likes>
+    <Likes>96046</Likes>
     <Category>People</Category>
   </Page>
   <Page>
     <Name>ARMACAD</Name>
     <PageURL>http://www.facebook.com/ARMACAD</PageURL>
     <Thumbnail>http://graph.facebook.com/ARMACAD/picture?type=large</Thumbnail>
-    <Likes>93399</Likes>
+    <Likes>93257</Likes>
+    <Category>
+    </Category>
+  </Page>
+  <Page>
+    <Name>TUMO Center for Creative Technologies</Name>
+    <PageURL>http://www.facebook.com/TumoCenter</PageURL>
+    <Thumbnail>http://graph.facebook.com/TumoCenter/picture?type=large</Thumbnail>
+    <Likes>88418</Likes>
+    <Category>
+    </Category>
+  </Page>
+  <Page>
+    <Name>Do you know?</Name>
+    <PageURL>http://www.facebook.com/ourhand</PageURL>
+    <Thumbnail>http://graph.facebook.com/ourhand/picture?type=large</Thumbnail>
+    <Likes>81814</Likes>
     <Category>
     </Category>
   </Page>
@@ -33,14 +121,30 @@
     <Name>GAGIK TSARUKYAN</Name>
     <PageURL>http://www.facebook.com/GagikTsarukyan</PageURL>
     <Thumbnail>http://graph.facebook.com/GagikTsarukyan/picture?type=large</Thumbnail>
-    <Likes>79897</Likes>
+    <Likes>80030</Likes>
     <Category>People</Category>
   </Page>
   <Page>
     <Name>AGBU</Name>
     <PageURL>http://www.facebook.com/agbu.org</PageURL>
     <Thumbnail>http://graph.facebook.com/agbu.org/picture?type=large</Thumbnail>
-    <Likes>78972</Likes>
+    <Likes>79147</Likes>
+    <Category>
+    </Category>
+  </Page>
+  <Page>
+    <Name>Իսկ Դուք գիտե՞ք, որ</Name>
+    <PageURL>http://www.facebook.com/iskduqgiteq</PageURL>
+    <Thumbnail>http://graph.facebook.com/iskduqgiteq/picture?type=large</Thumbnail>
+    <Likes>78464</Likes>
+    <Category>
+    </Category>
+  </Page>
+  <Page>
+    <Name>Razmik Amyan</Name>
+    <PageURL>http://www.facebook.com/razmikamyan</PageURL>
+    <Thumbnail>http://graph.facebook.com/razmikamyan/picture?type=large</Thumbnail>
+    <Likes>77109</Likes>
     <Category>
     </Category>
   </Page>
@@ -48,7 +152,7 @@
     <Name>Հարցեր բոլորի համար</Name>
     <PageURL>http://www.facebook.com/uraxjamanak</PageURL>
     <Thumbnail>http://graph.facebook.com/uraxjamanak/picture?type=large</Thumbnail>
-    <Likes>76753</Likes>
+    <Likes>76712</Likes>
     <Category>
     </Category>
   </Page>
@@ -56,45 +160,118 @@
     <Name>The First Christian Nation On Earth { ARMENIANS }</Name>
     <PageURL>http://www.facebook.com/217313362368</PageURL>
     <Thumbnail>http://graph.facebook.com/217313362368/picture?type=large</Thumbnail>
-    <Likes>74831</Likes>
+    <Likes>74670</Likes>
     <Category>
     </Category>
   </Page>
   <Page>
-    <Name>Artur Simonyan</Name>
-    <PageURL>http://www.facebook.com/simonyanartur</PageURL>
-    <Thumbnail>http://graph.facebook.com/simonyanartur/picture?type=large</Thumbnail>
-    <Likes>67912</Likes>
+    <Name>Gourmet Dourme, Armenian Chocolates</Name>
+    <PageURL>http://www.facebook.com/156978867675306</PageURL>
+    <Thumbnail>http://graph.facebook.com/156978867675306/picture?type=large</Thumbnail>
+    <Likes>74157</Likes>
     <Category>
     </Category>
   </Page>
   <Page>
-    <Name>Christine Pepelyan</Name>
-    <PageURL>http://www.facebook.com/ChristinaPepelyan</PageURL>
-    <Thumbnail>http://graph.facebook.com/ChristinaPepelyan/picture?type=large</Thumbnail>
-    <Likes>63617</Likes>
-    <Category>People</Category>
+    <Name>Я напишу Тебе стихи!</Name>
+    <PageURL>http://www.facebook.com/261916780524163</PageURL>
+    <Thumbnail>http://graph.facebook.com/261916780524163/picture?type=large</Thumbnail>
+    <Likes>70923</Likes>
+    <Category>
+    </Category>
+  </Page>
+  <Page>
+    <Name>Armenia in Eurovision</Name>
+    <PageURL>http://www.facebook.com/ArmeniaInEurovision</PageURL>
+    <Thumbnail>http://graph.facebook.com/ArmeniaInEurovision/picture?type=large</Thumbnail>
+    <Likes>69226</Likes>
+    <Category>
+    </Category>
+  </Page>
+  <Page>
+    <Name>Իմ Փոքրիկ (www.impoqrik.am)</Name>
+    <PageURL>http://www.facebook.com/impoqrik</PageURL>
+    <Thumbnail>http://graph.facebook.com/impoqrik/picture?type=large</Thumbnail>
+    <Likes>69056</Likes>
+    <Category>
+    </Category>
+  </Page>
+  <Page>
+    <Name>INDIVIDUUM CASTING PRODUCTION</Name>
+    <PageURL>http://www.facebook.com/IndividuumOfficial</PageURL>
+    <Thumbnail>http://graph.facebook.com/IndividuumOfficial/picture?type=large</Thumbnail>
+    <Likes>68671</Likes>
+    <Category>
+    </Category>
   </Page>
   <Page>
     <Name>Sergei Parajanov</Name>
     <PageURL>http://www.facebook.com/sergeiparajanov</PageURL>
     <Thumbnail>http://graph.facebook.com/sergeiparajanov/picture?type=large</Thumbnail>
-    <Likes>62354</Likes>
+    <Likes>62293</Likes>
     <Category>People</Category>
+  </Page>
+  <Page>
+    <Name>Armenian National Team</Name>
+    <PageURL>http://www.facebook.com/ArmenianNT</PageURL>
+    <Thumbnail>http://graph.facebook.com/ArmenianNT/picture?type=large</Thumbnail>
+    <Likes>59743</Likes>
+    <Category>
+    </Category>
+  </Page>
+  <Page>
+    <Name>Holy Etchmiadzin</Name>
+    <PageURL>http://www.facebook.com/holyetchmiadzin</PageURL>
+    <Thumbnail>http://graph.facebook.com/holyetchmiadzin/picture?type=large</Thumbnail>
+    <Likes>56778</Likes>
+    <Category>
+    </Category>
+  </Page>
+  <Page>
+    <Name>Armenia</Name>
+    <PageURL>http://www.facebook.com/70285368553</PageURL>
+    <Thumbnail>http://graph.facebook.com/70285368553/picture?type=large</Thumbnail>
+    <Likes>56042</Likes>
+    <Category>
+    </Category>
   </Page>
   <Page>
     <Name>Գտնված երազ</Name>
     <PageURL>http://www.facebook.com/48994076665</PageURL>
     <Thumbnail>http://graph.facebook.com/48994076665/picture?type=large</Thumbnail>
-    <Likes>55040</Likes>
+    <Likes>54993</Likes>
     <Category>
     </Category>
   </Page>
   <Page>
-    <Name>Ноты Души ღ</Name>
-    <PageURL>http://www.facebook.com/BogLubittebya</PageURL>
-    <Thumbnail>http://graph.facebook.com/BogLubittebya/picture?type=large</Thumbnail>
-    <Likes>46277</Likes>
+    <Name>Argam Ustyan's Blog</Name>
+    <PageURL>http://www.facebook.com/argblog</PageURL>
+    <Thumbnail>http://graph.facebook.com/argblog/picture?type=large</Thumbnail>
+    <Likes>51907</Likes>
+    <Category>
+    </Category>
+  </Page>
+  <Page>
+    <Name>Մեքս Երևան</Name>
+    <PageURL>http://www.facebook.com/mexxarmenia</PageURL>
+    <Thumbnail>http://graph.facebook.com/mexxarmenia/picture?type=large</Thumbnail>
+    <Likes>51878</Likes>
+    <Category>
+    </Category>
+  </Page>
+  <Page>
+    <Name>7or.am</Name>
+    <PageURL>http://www.facebook.com/213097785388439</PageURL>
+    <Thumbnail>http://graph.facebook.com/213097785388439/picture?type=large</Thumbnail>
+    <Likes>48003</Likes>
+    <Category>
+    </Category>
+  </Page>
+  <Page>
+    <Name>Pepsi Armenia</Name>
+    <PageURL>http://www.facebook.com/Pepsi.Armenia</PageURL>
+    <Thumbnail>http://graph.facebook.com/Pepsi.Armenia/picture?type=large</Thumbnail>
+    <Likes>43757</Likes>
     <Category>
     </Category>
   </Page>
@@ -102,15 +279,79 @@
     <Name>Armenia</Name>
     <PageURL>http://www.facebook.com/travel.to.armenia</PageURL>
     <Thumbnail>http://graph.facebook.com/travel.to.armenia/picture?type=large</Thumbnail>
-    <Likes>41615</Likes>
+    <Likes>41605</Likes>
     <Category>
     </Category>
   </Page>
   <Page>
-    <Name>Глубокие Мысли</Name>
-    <PageURL>http://www.facebook.com/Glubokie.Misli</PageURL>
-    <Thumbnail>http://graph.facebook.com/Glubokie.Misli/picture?type=large</Thumbnail>
-    <Likes>40639</Likes>
+    <Name>Word of Life Church Armenia</Name>
+    <PageURL>http://www.facebook.com/wolarm</PageURL>
+    <Thumbnail>http://graph.facebook.com/wolarm/picture?type=large</Thumbnail>
+    <Likes>40395</Likes>
+    <Category>
+    </Category>
+  </Page>
+  <Page>
+    <Name>TotalFootball.am</Name>
+    <PageURL>http://www.facebook.com/TotalFootball.am</PageURL>
+    <Thumbnail>http://graph.facebook.com/TotalFootball.am/picture?type=large</Thumbnail>
+    <Likes>38638</Likes>
+    <Category>
+    </Category>
+  </Page>
+  <Page>
+    <Name>Youandworld.am</Name>
+    <PageURL>http://www.facebook.com/161049903976912</PageURL>
+    <Thumbnail>http://graph.facebook.com/161049903976912/picture?type=large</Thumbnail>
+    <Likes>37202</Likes>
+    <Category>
+    </Category>
+  </Page>
+  <Page>
+    <Name>ArmFootball.com</Name>
+    <PageURL>http://www.facebook.com/ArmFootball</PageURL>
+    <Thumbnail>http://graph.facebook.com/ArmFootball/picture?type=large</Thumbnail>
+    <Likes>36800</Likes>
+    <Category>
+    </Category>
+  </Page>
+  <Page>
+    <Name>Մենք քիչ ենք,սակայն մեզ հայ են ասում</Name>
+    <PageURL>http://www.facebook.com/250651848361103</PageURL>
+    <Thumbnail>http://graph.facebook.com/250651848361103/picture?type=large</Thumbnail>
+    <Likes>36287</Likes>
+    <Category>
+    </Category>
+  </Page>
+  <Page>
+    <Name>Prakat.am</Name>
+    <PageURL>http://www.facebook.com/Prakatam</PageURL>
+    <Thumbnail>http://graph.facebook.com/Prakatam/picture?type=large</Thumbnail>
+    <Likes>36059</Likes>
+    <Category>
+    </Category>
+  </Page>
+  <Page>
+    <Name>Զանգակ հրատարակչություն</Name>
+    <PageURL>http://www.facebook.com/zangak</PageURL>
+    <Thumbnail>http://graph.facebook.com/zangak/picture?type=large</Thumbnail>
+    <Likes>35377</Likes>
+    <Category>
+    </Category>
+  </Page>
+  <Page>
+    <Name>Eva Rivas-Armenia at Eurovision Contest 2010</Name>
+    <PageURL>http://www.facebook.com/evarivas2010</PageURL>
+    <Thumbnail>http://graph.facebook.com/evarivas2010/picture?type=large</Thumbnail>
+    <Likes>34411</Likes>
+    <Category>
+    </Category>
+  </Page>
+  <Page>
+    <Name>HayFanat</Name>
+    <PageURL>http://www.facebook.com/hayfanat</PageURL>
+    <Thumbnail>http://graph.facebook.com/hayfanat/picture?type=large</Thumbnail>
+    <Likes>34111</Likes>
     <Category>
     </Category>
   </Page>
@@ -118,52 +359,204 @@
     <Name>Megasport</Name>
     <PageURL>http://www.facebook.com/MegasportArmenia</PageURL>
     <Thumbnail>http://graph.facebook.com/MegasportArmenia/picture?type=large</Thumbnail>
-    <Likes>33774</Likes>
+    <Likes>34028</Likes>
     <Category>Shop</Category>
   </Page>
   <Page>
     <Name>Komitas</Name>
     <PageURL>http://www.facebook.com/Komitas</PageURL>
     <Thumbnail>http://graph.facebook.com/Komitas/picture?type=large</Thumbnail>
-    <Likes>32870</Likes>
+    <Likes>32821</Likes>
     <Category>People</Category>
   </Page>
   <Page>
     <Name>Հրանտ Դինք - Hrant Dink</Name>
     <PageURL>http://www.facebook.com/47105294301</PageURL>
     <Thumbnail>http://graph.facebook.com/47105294301/picture?type=large</Thumbnail>
-    <Likes>32810</Likes>
+    <Likes>32773</Likes>
     <Category>People</Category>
+  </Page>
+  <Page>
+    <Name>Kill Dim Production</Name>
+    <PageURL>http://www.facebook.com/120534834686860</PageURL>
+    <Thumbnail>http://graph.facebook.com/120534834686860/picture?type=large</Thumbnail>
+    <Likes>32001</Likes>
+    <Category>
+    </Category>
+  </Page>
+  <Page>
+    <Name>նկարներ տարբեր</Name>
+    <PageURL>http://www.facebook.com/207032856004714</PageURL>
+    <Thumbnail>http://graph.facebook.com/207032856004714/picture?type=large</Thumbnail>
+    <Likes>31810</Likes>
+    <Category>
+    </Category>
+  </Page>
+  <Page>
+    <Name>Հ.Յ.Դ. Հայ Յեղափոխական Դաշնակցութիւն</Name>
+    <PageURL>http://www.facebook.com/151679834847391</PageURL>
+    <Thumbnail>http://graph.facebook.com/151679834847391/picture?type=large</Thumbnail>
+    <Likes>31018</Likes>
+    <Category>
+    </Category>
   </Page>
   <Page>
     <Name>Cafesjian Center for the Arts</Name>
     <PageURL>http://www.facebook.com/cafesjiancentercascade</PageURL>
     <Thumbnail>http://graph.facebook.com/cafesjiancentercascade/picture?type=large</Thumbnail>
-    <Likes>28592</Likes>
+    <Likes>28585</Likes>
     <Category>
     </Category>
   </Page>
   <Page>
-    <Name>AV Production</Name>
-    <PageURL>http://www.facebook.com/av.production.armenia</PageURL>
-    <Thumbnail>http://graph.facebook.com/av.production.armenia/picture?type=large</Thumbnail>
-    <Likes>23706</Likes>
+    <Name>Յուրօրինակ պատկերասրահ</Name>
+    <PageURL>http://www.facebook.com/365686023477572</PageURL>
+    <Thumbnail>http://graph.facebook.com/365686023477572/picture?type=large</Thumbnail>
+    <Likes>28056</Likes>
     <Category>
     </Category>
   </Page>
   <Page>
-    <Name>ԷԹՆՈՍ  /  Ethnos</Name>
-    <PageURL>http://www.facebook.com/theArmenianEthnos</PageURL>
-    <Thumbnail>http://graph.facebook.com/theArmenianEthnos/picture?type=large</Thumbnail>
-    <Likes>21150</Likes>
+    <Name>National Gallery of Armenia</Name>
+    <PageURL>http://www.facebook.com/142042579140198</PageURL>
+    <Thumbnail>http://graph.facebook.com/142042579140198/picture?type=large</Thumbnail>
+    <Likes>27289</Likes>
     <Category>
     </Category>
   </Page>
   <Page>
-    <Name>Red Eagles Fan Club</Name>
-    <PageURL>http://www.facebook.com/redeaglesfan</PageURL>
-    <Thumbnail>http://graph.facebook.com/redeaglesfan/picture?type=large</Thumbnail>
-    <Likes>19740</Likes>
+    <Name>First Armenian Front (FAF)</Name>
+    <PageURL>http://www.facebook.com/FirstArmenianFront</PageURL>
+    <Thumbnail>http://graph.facebook.com/FirstArmenianFront/picture?type=large</Thumbnail>
+    <Likes>26095</Likes>
+    <Category>
+    </Category>
+  </Page>
+  <Page>
+    <Name>FCBarcelona - www.barca.am</Name>
+    <PageURL>http://www.facebook.com/FCBarcelonaArmenia</PageURL>
+    <Thumbnail>http://graph.facebook.com/FCBarcelonaArmenia/picture?type=large</Thumbnail>
+    <Likes>25997</Likes>
+    <Category>
+    </Category>
+  </Page>
+  <Page>
+    <Name>KOHAR Symphony Orchestra &amp; Choir</Name>
+    <PageURL>http://www.facebook.com/32634974182</PageURL>
+    <Thumbnail>http://graph.facebook.com/32634974182/picture?type=large</Thumbnail>
+    <Likes>24312</Likes>
+    <Category>
+    </Category>
+  </Page>
+  <Page>
+    <Name>Գարեգին Նժդեհ - Garegin Njdeh</Name>
+    <PageURL>http://www.facebook.com/G.NJDEH</PageURL>
+    <Thumbnail>http://graph.facebook.com/G.NJDEH/picture?type=large</Thumbnail>
+    <Likes>23736</Likes>
+    <Category>
+    </Category>
+  </Page>
+  <Page>
+    <Name>JA'HELLO</Name>
+    <PageURL>http://www.facebook.com/JAHELLOgroup</PageURL>
+    <Thumbnail>http://graph.facebook.com/JAHELLOgroup/picture?type=large</Thumbnail>
+    <Likes>22633</Likes>
+    <Category>
+    </Category>
+  </Page>
+  <Page>
+    <Name>Hot-tours - Հունաստան, Греция, Greece</Name>
+    <PageURL>http://www.facebook.com/HotTours</PageURL>
+    <Thumbnail>http://graph.facebook.com/HotTours/picture?type=large</Thumbnail>
+    <Likes>22189</Likes>
+    <Category>
+    </Category>
+  </Page>
+  <Page>
+    <Name>Nick Egibyan</Name>
+    <PageURL>http://www.facebook.com/NickEgibyan</PageURL>
+    <Thumbnail>http://graph.facebook.com/NickEgibyan/picture?type=large</Thumbnail>
+    <Likes>22165</Likes>
+    <Category>
+    </Category>
+  </Page>
+  <Page>
+    <Name>Ayb Educational Foundation</Name>
+    <PageURL>http://www.facebook.com/282361768086</PageURL>
+    <Thumbnail>http://graph.facebook.com/282361768086/picture?type=large</Thumbnail>
+    <Likes>20748</Likes>
+    <Category>
+    </Category>
+  </Page>
+  <Page>
+    <Name>American Councils Armenia</Name>
+    <PageURL>http://www.facebook.com/American.Councils.Armenia</PageURL>
+    <Thumbnail>http://graph.facebook.com/American.Councils.Armenia/picture?type=large</Thumbnail>
+    <Likes>20198</Likes>
+    <Category>
+    </Category>
+  </Page>
+  <Page>
+    <Name>Artashes Kalantarian</Name>
+    <PageURL>http://www.facebook.com/artasheskalantarian</PageURL>
+    <Thumbnail>http://graph.facebook.com/artasheskalantarian/picture?type=large</Thumbnail>
+    <Likes>19853</Likes>
+    <Category>
+    </Category>
+  </Page>
+  <Page>
+    <Name>THE BIBLE ԱՍՏՈՒԱԾԱՇՈՒՆՉ</Name>
+    <PageURL>http://www.facebook.com/ASDVADZASHOONCH</PageURL>
+    <Thumbnail>http://graph.facebook.com/ASDVADZASHOONCH/picture?type=large</Thumbnail>
+    <Likes>18934</Likes>
+    <Category>
+    </Category>
+  </Page>
+  <Page>
+    <Name>5 Հետաքրքիր փաստեր</Name>
+    <PageURL>http://www.facebook.com/5interestingfacts</PageURL>
+    <Thumbnail>http://graph.facebook.com/5interestingfacts/picture?type=large</Thumbnail>
+    <Likes>18923</Likes>
+    <Category>
+    </Category>
+  </Page>
+  <Page>
+    <Name>32 Atam Akumb</Name>
+    <PageURL>http://www.facebook.com/268071766574566</PageURL>
+    <Thumbnail>http://graph.facebook.com/268071766574566/picture?type=large</Thumbnail>
+    <Likes>18211</Likes>
+    <Category>
+    </Category>
+  </Page>
+  <Page>
+    <Name>X-Tech Creative Studio, PR, Security</Name>
+    <PageURL>http://www.facebook.com/XTECH.am</PageURL>
+    <Thumbnail>http://graph.facebook.com/XTECH.am/picture?type=large</Thumbnail>
+    <Likes>17550</Likes>
+    <Category>
+    </Category>
+  </Page>
+  <Page>
+    <Name>Meloyan Media House</Name>
+    <PageURL>http://www.facebook.com/MeloyanMediaHouse</PageURL>
+    <Thumbnail>http://graph.facebook.com/MeloyanMediaHouse/picture?type=large</Thumbnail>
+    <Likes>17385</Likes>
+    <Category>
+    </Category>
+  </Page>
+  <Page>
+    <Name>Recognize the Nagorno Karabakh Republic</Name>
+    <PageURL>http://www.facebook.com/RecognizeNKR</PageURL>
+    <Thumbnail>http://graph.facebook.com/RecognizeNKR/picture?type=large</Thumbnail>
+    <Likes>17366</Likes>
+    <Category>
+    </Category>
+  </Page>
+  <Page>
+    <Name>Ես Հայ եմ</Name>
+    <PageURL>http://www.facebook.com/306710079394786</PageURL>
+    <Thumbnail>http://graph.facebook.com/306710079394786/picture?type=large</Thumbnail>
+    <Likes>17320</Likes>
     <Category>
     </Category>
   </Page>
@@ -171,15 +564,87 @@
     <Name>I love you Armenia, I love you</Name>
     <PageURL>http://www.facebook.com/ilovearmenia</PageURL>
     <Thumbnail>http://graph.facebook.com/ilovearmenia/picture?type=large</Thumbnail>
-    <Likes>17321</Likes>
+    <Likes>17295</Likes>
     <Category>
     </Category>
   </Page>
   <Page>
-    <Name>Ничего случайного не бывает.</Name>
-    <PageURL>http://www.facebook.com/444881052211622</PageURL>
-    <Thumbnail>http://graph.facebook.com/444881052211622/picture?type=large</Thumbnail>
-    <Likes>15975</Likes>
+    <Name>Armenian Bible - Karozner</Name>
+    <PageURL>http://www.facebook.com/karozner</PageURL>
+    <Thumbnail>http://graph.facebook.com/karozner/picture?type=large</Thumbnail>
+    <Likes>17189</Likes>
+    <Category>
+    </Category>
+  </Page>
+  <Page>
+    <Name>armenian national team</Name>
+    <PageURL>http://www.facebook.com/8742113262</PageURL>
+    <Thumbnail>http://graph.facebook.com/8742113262/picture?type=large</Thumbnail>
+    <Likes>17082</Likes>
+    <Category>
+    </Category>
+  </Page>
+  <Page>
+    <Name>Syuzan Margaryan</Name>
+    <PageURL>http://www.facebook.com/syuzan.margaryan</PageURL>
+    <Thumbnail>http://graph.facebook.com/syuzan.margaryan/picture?type=large</Thumbnail>
+    <Likes>16882</Likes>
+    <Category>
+    </Category>
+  </Page>
+  <Page>
+    <Name>Հումորիկ</Name>
+    <PageURL>http://www.facebook.com/humorik</PageURL>
+    <Thumbnail>http://graph.facebook.com/humorik/picture?type=large</Thumbnail>
+    <Likes>16811</Likes>
+    <Category>
+    </Category>
+  </Page>
+  <Page>
+    <Name>Գրանիշ գրական ակումբ</Name>
+    <PageURL>http://www.facebook.com/Granish.org</PageURL>
+    <Thumbnail>http://graph.facebook.com/Granish.org/picture?type=large</Thumbnail>
+    <Likes>16764</Likes>
+    <Category>
+    </Category>
+  </Page>
+  <Page>
+    <Name>Armenians Pascal &amp;Diodato</Name>
+    <PageURL>http://www.facebook.com/135903703111723</PageURL>
+    <Thumbnail>http://graph.facebook.com/135903703111723/picture?type=large</Thumbnail>
+    <Likes>16669</Likes>
+    <Category>
+    </Category>
+  </Page>
+  <Page>
+    <Name>arshavakanner.am</Name>
+    <PageURL>http://www.facebook.com/arshavakanner.am</PageURL>
+    <Thumbnail>http://graph.facebook.com/arshavakanner.am/picture?type=large</Thumbnail>
+    <Likes>16035</Likes>
+    <Category>
+    </Category>
+  </Page>
+  <Page>
+    <Name>OOPS</Name>
+    <PageURL>http://www.facebook.com/265808200153780</PageURL>
+    <Thumbnail>http://graph.facebook.com/265808200153780/picture?type=large</Thumbnail>
+    <Likes>15935</Likes>
+    <Category>
+    </Category>
+  </Page>
+  <Page>
+    <Name>LUCINA</Name>
+    <PageURL>http://www.facebook.com/32208781003</PageURL>
+    <Thumbnail>http://graph.facebook.com/32208781003/picture?type=large</Thumbnail>
+    <Likes>15860</Likes>
+    <Category>
+    </Category>
+  </Page>
+  <Page>
+    <Name>Armenian Jazz</Name>
+    <PageURL>http://www.facebook.com/ArmenianJazz</PageURL>
+    <Thumbnail>http://graph.facebook.com/ArmenianJazz/picture?type=large</Thumbnail>
+    <Likes>15261</Likes>
     <Category>
     </Category>
   </Page>
@@ -187,14 +652,38 @@
     <Name>Tigran Sargsyan</Name>
     <PageURL>http://www.facebook.com/43211285887</PageURL>
     <Thumbnail>http://graph.facebook.com/43211285887/picture?type=large</Thumbnail>
-    <Likes>14657</Likes>
+    <Likes>14654</Likes>
     <Category>People</Category>
   </Page>
   <Page>
-    <Name>HARMONIA.am</Name>
-    <PageURL>http://www.facebook.com/152550444844385</PageURL>
-    <Thumbnail>http://graph.facebook.com/152550444844385/picture?type=large</Thumbnail>
-    <Likes>14197</Likes>
+    <Name>ՀՊՏՀ ՈՒՍԱՆՈՂԱԿԱՆ ԽՈՐՀՈՒՐԴ</Name>
+    <PageURL>http://www.facebook.com/105291282896560</PageURL>
+    <Thumbnail>http://graph.facebook.com/105291282896560/picture?type=large</Thumbnail>
+    <Likes>14601</Likes>
+    <Category>
+    </Category>
+  </Page>
+  <Page>
+    <Name>Տուրիստական նորություններ</Name>
+    <PageURL>http://www.facebook.com/Tourinform</PageURL>
+    <Thumbnail>http://graph.facebook.com/Tourinform/picture?type=large</Thumbnail>
+    <Likes>14061</Likes>
+    <Category>
+    </Category>
+  </Page>
+  <Page>
+    <Name>Ես Հայ Եմ</Name>
+    <PageURL>http://www.facebook.com/165949686849127</PageURL>
+    <Thumbnail>http://graph.facebook.com/165949686849127/picture?type=large</Thumbnail>
+    <Likes>14009</Likes>
+    <Category>
+    </Category>
+  </Page>
+  <Page>
+    <Name>Շոկոլադ</Name>
+    <PageURL>http://www.facebook.com/armchocolate</PageURL>
+    <Thumbnail>http://graph.facebook.com/armchocolate/picture?type=large</Thumbnail>
+    <Likes>13980</Likes>
     <Category>
     </Category>
   </Page>
@@ -202,15 +691,47 @@
     <Name>Financial Success</Name>
     <PageURL>http://www.facebook.com/finsuccess</PageURL>
     <Thumbnail>http://graph.facebook.com/finsuccess/picture?type=large</Thumbnail>
-    <Likes>12680</Likes>
+    <Likes>12676</Likes>
     <Category>
     </Category>
   </Page>
   <Page>
-    <Name>REA.am</Name>
-    <PageURL>http://www.facebook.com/142699102439230</PageURL>
-    <Thumbnail>http://graph.facebook.com/142699102439230/picture?type=large</Thumbnail>
-    <Likes>10669</Likes>
+    <Name>Narek Baveyan</Name>
+    <PageURL>http://www.facebook.com/BaveyanNarekOfficial</PageURL>
+    <Thumbnail>http://graph.facebook.com/BaveyanNarekOfficial/picture?type=large</Thumbnail>
+    <Likes>11305</Likes>
+    <Category>
+    </Category>
+  </Page>
+  <Page>
+    <Name>Armenian Duduk</Name>
+    <PageURL>http://www.facebook.com/106100819420240</PageURL>
+    <Thumbnail>http://graph.facebook.com/106100819420240/picture?type=large</Thumbnail>
+    <Likes>10929</Likes>
+    <Category>
+    </Category>
+  </Page>
+  <Page>
+    <Name>Ես սիրում եմ ֆիլմեր</Name>
+    <PageURL>http://www.facebook.com/199356880081708</PageURL>
+    <Thumbnail>http://graph.facebook.com/199356880081708/picture?type=large</Thumbnail>
+    <Likes>10547</Likes>
+    <Category>
+    </Category>
+  </Page>
+  <Page>
+    <Name>MAYRIG</Name>
+    <PageURL>http://www.facebook.com/42569521052</PageURL>
+    <Thumbnail>http://graph.facebook.com/42569521052/picture?type=large</Thumbnail>
+    <Likes>10429</Likes>
+    <Category>
+    </Category>
+  </Page>
+  <Page>
+    <Name>Deem Communications</Name>
+    <PageURL>http://www.facebook.com/deemcommunications</PageURL>
+    <Thumbnail>http://graph.facebook.com/deemcommunications/picture?type=large</Thumbnail>
+    <Likes>9830</Likes>
     <Category>
     </Category>
   </Page>
@@ -218,7 +739,31 @@
     <Name>Mount Ararat</Name>
     <PageURL>http://www.facebook.com/100504267300</PageURL>
     <Thumbnail>http://graph.facebook.com/100504267300/picture?type=large</Thumbnail>
-    <Likes>9292</Likes>
+    <Likes>9289</Likes>
+    <Category>
+    </Category>
+  </Page>
+  <Page>
+    <Name>ArtBridge Bookstore Cafe, Yerevan</Name>
+    <PageURL>http://www.facebook.com/ArtbridgeBC</PageURL>
+    <Thumbnail>http://graph.facebook.com/ArtbridgeBC/picture?type=large</Thumbnail>
+    <Likes>9013</Likes>
+    <Category>
+    </Category>
+  </Page>
+  <Page>
+    <Name>Kayseri Armenian Church</Name>
+    <PageURL>http://www.facebook.com/kayserichurch</PageURL>
+    <Thumbnail>http://graph.facebook.com/kayserichurch/picture?type=large</Thumbnail>
+    <Likes>8980</Likes>
+    <Category>
+    </Category>
+  </Page>
+  <Page>
+    <Name>The Civilitas Foundation</Name>
+    <PageURL>http://www.facebook.com/CivilitasFoundation</PageURL>
+    <Thumbnail>http://graph.facebook.com/CivilitasFoundation/picture?type=large</Thumbnail>
+    <Likes>8265</Likes>
     <Category>
     </Category>
   </Page>
@@ -226,63 +771,615 @@
     <Name>Old Yerevan: Gone But Not Forgotten</Name>
     <PageURL>http://www.facebook.com/358361197046</PageURL>
     <Thumbnail>http://graph.facebook.com/358361197046/picture?type=large</Thumbnail>
-    <Likes>8040</Likes>
+    <Likes>8041</Likes>
     <Category>
     </Category>
   </Page>
   <Page>
-    <Name>Harazat Tshnami</Name>
-    <PageURL>http://www.facebook.com/377823158998296</PageURL>
-    <Thumbnail>http://graph.facebook.com/377823158998296/picture?type=large</Thumbnail>
-    <Likes>5724</Likes>
+    <Name>ՊԱՐՈՒՅՐ ՍԵՎԱԿ - PARUYR SEVAK</Name>
+    <PageURL>http://www.facebook.com/171742582859217</PageURL>
+    <Thumbnail>http://graph.facebook.com/171742582859217/picture?type=large</Thumbnail>
+    <Likes>7813</Likes>
     <Category>
     </Category>
   </Page>
   <Page>
-    <Name>Cars of Armenians</Name>
-    <PageURL>http://www.facebook.com/446446042061154</PageURL>
-    <Thumbnail>http://graph.facebook.com/446446042061154/picture?type=large</Thumbnail>
-    <Likes>3850</Likes>
+    <Name>Artsakh (Karabakh)</Name>
+    <PageURL>http://www.facebook.com/Nagorno.Karabakh.Republic</PageURL>
+    <Thumbnail>http://graph.facebook.com/Nagorno.Karabakh.Republic/picture?type=large</Thumbnail>
+    <Likes>7784</Likes>
     <Category>
     </Category>
   </Page>
   <Page>
-    <Name>Music and Life</Name>
-    <PageURL>http://www.facebook.com/1990MusicAndLife201X</PageURL>
-    <Thumbnail>http://graph.facebook.com/1990MusicAndLife201X/picture?type=large</Thumbnail>
-    <Likes>3218</Likes>
+    <Name>American Express Քարտեր</Name>
+    <PageURL>http://www.facebook.com/AmericanExpressArmenia</PageURL>
+    <Thumbnail>http://graph.facebook.com/AmericanExpressArmenia/picture?type=large</Thumbnail>
+    <Likes>7780</Likes>
     <Category>
     </Category>
   </Page>
   <Page>
-    <Name>The Beatles Armenia</Name>
-    <PageURL>http://www.facebook.com/TheBeatlesArmenia</PageURL>
-    <Thumbnail>http://graph.facebook.com/TheBeatlesArmenia/picture?type=large</Thumbnail>
-    <Likes>3038</Likes>
+    <Name>Thiternik's PhotoWorld</Name>
+    <PageURL>http://www.facebook.com/thiternik</PageURL>
+    <Thumbnail>http://graph.facebook.com/thiternik/picture?type=large</Thumbnail>
+    <Likes>7541</Likes>
     <Category>
     </Category>
   </Page>
   <Page>
-    <Name>Information Technologies</Name>
-    <PageURL>http://www.facebook.com/NewInfoTechnology</PageURL>
-    <Thumbnail>http://graph.facebook.com/NewInfoTechnology/picture?type=large</Thumbnail>
-    <Likes>2978</Likes>
+    <Name>EV Consulting</Name>
+    <PageURL>http://www.facebook.com/EVConsulting</PageURL>
+    <Thumbnail>http://graph.facebook.com/EVConsulting/picture?type=large</Thumbnail>
+    <Likes>7095</Likes>
     <Category>
     </Category>
   </Page>
   <Page>
-    <Name>9-ՐԴ ՀՐԱՇԱԼԻՔ</Name>
-    <PageURL>http://www.facebook.com/hrashaliq</PageURL>
-    <Thumbnail>http://graph.facebook.com/hrashaliq/picture?type=large</Thumbnail>
-    <Likes>2665</Likes>
+    <Name>Հայկական Մշակութային Ժառանգութիւն</Name>
+    <PageURL>http://www.facebook.com/231405766872291</PageURL>
+    <Thumbnail>http://graph.facebook.com/231405766872291/picture?type=large</Thumbnail>
+    <Likes>6506</Likes>
     <Category>
     </Category>
   </Page>
   <Page>
-    <Name>Ռոքը Հայաստանում</Name>
-    <PageURL>http://www.facebook.com/258065567567055</PageURL>
-    <Thumbnail>http://graph.facebook.com/258065567567055/picture?type=large</Thumbnail>
-    <Likes>1718</Likes>
+    <Name>Պահանջում ենք գիտության ֆին. ավելացում</Name>
+    <PageURL>http://www.facebook.com/science.and.finance</PageURL>
+    <Thumbnail>http://graph.facebook.com/science.and.finance/picture?type=large</Thumbnail>
+    <Likes>6497</Likes>
+    <Category>
+    </Category>
+  </Page>
+  <Page>
+    <Name>ոնց եմ հոգնել</Name>
+    <PageURL>http://www.facebook.com/217313081618268</PageURL>
+    <Thumbnail>http://graph.facebook.com/217313081618268/picture?type=large</Thumbnail>
+    <Likes>6335</Likes>
+    <Category>
+    </Category>
+  </Page>
+  <Page>
+    <Name>Լոքշի Նախարարություն</Name>
+    <PageURL>http://www.facebook.com/loqsh</PageURL>
+    <Thumbnail>http://graph.facebook.com/loqsh/picture?type=large</Thumbnail>
+    <Likes>6259</Likes>
+    <Category>
+    </Category>
+  </Page>
+  <Page>
+    <Name>Armenian Poetry Հայ Պոեզիա</Name>
+    <PageURL>http://www.facebook.com/110977805655021</PageURL>
+    <Thumbnail>http://graph.facebook.com/110977805655021/picture?type=large</Thumbnail>
+    <Likes>6189</Likes>
+    <Category>
+    </Category>
+  </Page>
+  <Page>
+    <Name>Բա չիմացաք</Name>
+    <PageURL>http://www.facebook.com/Ba.chimacaq</PageURL>
+    <Thumbnail>http://graph.facebook.com/Ba.chimacaq/picture?type=large</Thumbnail>
+    <Likes>6151</Likes>
+    <Category>
+    </Category>
+  </Page>
+  <Page>
+    <Name>Amanor.ru</Name>
+    <PageURL>http://www.facebook.com/231912370210916</PageURL>
+    <Thumbnail>http://graph.facebook.com/231912370210916/picture?type=large</Thumbnail>
+    <Likes>6084</Likes>
+    <Category>
+    </Category>
+  </Page>
+  <Page>
+    <Name>Մկրտիչ Սարգսյան (Mkrtich Sargsyan)</Name>
+    <PageURL>http://www.facebook.com/238427999520996</PageURL>
+    <Thumbnail>http://graph.facebook.com/238427999520996/picture?type=large</Thumbnail>
+    <Likes>5888</Likes>
+    <Category>
+    </Category>
+  </Page>
+  <Page>
+    <Name>Հայկական Անեկդոտներ</Name>
+    <PageURL>http://www.facebook.com/HaykakanAnekdotner</PageURL>
+    <Thumbnail>http://graph.facebook.com/HaykakanAnekdotner/picture?type=large</Thumbnail>
+    <Likes>5884</Likes>
+    <Category>
+    </Category>
+  </Page>
+  <Page>
+    <Name>xNET.am</Name>
+    <PageURL>http://www.facebook.com/xNET.am</PageURL>
+    <Thumbnail>http://graph.facebook.com/xNET.am/picture?type=large</Thumbnail>
+    <Likes>5880</Likes>
+    <Category>
+    </Category>
+  </Page>
+  <Page>
+    <Name>Armenian Family Tree</Name>
+    <PageURL>http://www.facebook.com/ArmenianFamilyTree</PageURL>
+    <Thumbnail>http://graph.facebook.com/ArmenianFamilyTree/picture?type=large</Thumbnail>
+    <Likes>5793</Likes>
+    <Category>
+    </Category>
+  </Page>
+  <Page>
+    <Name>Of Aman Yesiim Eh !!</Name>
+    <PageURL>http://www.facebook.com/oayeh</PageURL>
+    <Thumbnail>http://graph.facebook.com/oayeh/picture?type=large</Thumbnail>
+    <Likes>5671</Likes>
+    <Category>
+    </Category>
+  </Page>
+  <Page>
+    <Name>Smart Systems LLC</Name>
+    <PageURL>http://www.facebook.com/smartsystemsllc</PageURL>
+    <Thumbnail>http://graph.facebook.com/smartsystemsllc/picture?type=large</Thumbnail>
+    <Likes>5488</Likes>
+    <Category>
+    </Category>
+  </Page>
+  <Page>
+    <Name>Sayat Nova</Name>
+    <PageURL>http://www.facebook.com/47350328599</PageURL>
+    <Thumbnail>http://graph.facebook.com/47350328599/picture?type=large</Thumbnail>
+    <Likes>5475</Likes>
+    <Category>
+    </Category>
+  </Page>
+  <Page>
+    <Name>Sevan</Name>
+    <PageURL>http://www.facebook.com/lake.sevan</PageURL>
+    <Thumbnail>http://graph.facebook.com/lake.sevan/picture?type=large</Thumbnail>
+    <Likes>5362</Likes>
+    <Category>
+    </Category>
+  </Page>
+  <Page>
+    <Name>Ճանաչենք Հայաստանը</Name>
+    <PageURL>http://www.facebook.com/155325171145116</PageURL>
+    <Thumbnail>http://graph.facebook.com/155325171145116/picture?type=large</Thumbnail>
+    <Likes>5239</Likes>
+    <Category>
+    </Category>
+  </Page>
+  <Page>
+    <Name>Կինոաշխարհի նորույթներ | HQ.am</Name>
+    <PageURL>http://www.facebook.com/www.HQ.am</PageURL>
+    <Thumbnail>http://graph.facebook.com/www.HQ.am/picture?type=large</Thumbnail>
+    <Likes>5230</Likes>
+    <Category>
+    </Category>
+  </Page>
+  <Page>
+    <Name>ՄԻԱՍԻՆ ԱՂՕԹԵՆՔ PRAY TOGETHER</Name>
+    <PageURL>http://www.facebook.com/AGHOTENK</PageURL>
+    <Thumbnail>http://graph.facebook.com/AGHOTENK/picture?type=large</Thumbnail>
+    <Likes>5226</Likes>
+    <Category>
+    </Category>
+  </Page>
+  <Page>
+    <Name>FindArmenia.com</Name>
+    <PageURL>http://www.facebook.com/214806258534217</PageURL>
+    <Thumbnail>http://graph.facebook.com/214806258534217/picture?type=large</Thumbnail>
+    <Likes>4949</Likes>
+    <Category>
+    </Category>
+  </Page>
+  <Page>
+    <Name>Webtv.am</Name>
+    <PageURL>http://www.facebook.com/webtv.am</PageURL>
+    <Thumbnail>http://graph.facebook.com/webtv.am/picture?type=large</Thumbnail>
+    <Likes>4827</Likes>
+    <Category>
+    </Category>
+  </Page>
+  <Page>
+    <Name>Armen Arts Studio</Name>
+    <PageURL>http://www.facebook.com/armenarts</PageURL>
+    <Thumbnail>http://graph.facebook.com/armenarts/picture?type=large</Thumbnail>
+    <Likes>4716</Likes>
+    <Category>
+    </Category>
+  </Page>
+  <Page>
+    <Name>Recipes.am</Name>
+    <PageURL>http://www.facebook.com/Recipes.am</PageURL>
+    <Thumbnail>http://graph.facebook.com/Recipes.am/picture?type=large</Thumbnail>
+    <Likes>4641</Likes>
+    <Category>
+    </Category>
+  </Page>
+  <Page>
+    <Name>Ֆեյսբուքյան հարցեր</Name>
+    <PageURL>http://www.facebook.com/208131459251106</PageURL>
+    <Thumbnail>http://graph.facebook.com/208131459251106/picture?type=large</Thumbnail>
+    <Likes>4633</Likes>
+    <Category>
+    </Category>
+  </Page>
+  <Page>
+    <Name>Քոփի ՓասՏ</Name>
+    <PageURL>http://www.facebook.com/copypastutyun</PageURL>
+    <Thumbnail>http://graph.facebook.com/copypastutyun/picture?type=large</Thumbnail>
+    <Likes>4627</Likes>
+    <Category>
+    </Category>
+  </Page>
+  <Page>
+    <Name>Ժամանակակից գրականություն</Name>
+    <PageURL>http://www.facebook.com/289638630912</PageURL>
+    <Thumbnail>http://graph.facebook.com/289638630912/picture?type=large</Thumbnail>
+    <Likes>4544</Likes>
+    <Category>
+    </Category>
+  </Page>
+  <Page>
+    <Name>ArmTech</Name>
+    <PageURL>http://www.facebook.com/ArmTech</PageURL>
+    <Thumbnail>http://graph.facebook.com/ArmTech/picture?type=large</Thumbnail>
+    <Likes>4293</Likes>
+    <Category>
+    </Category>
+  </Page>
+  <Page>
+    <Name>Արաբկիրցիներ</Name>
+    <PageURL>http://www.facebook.com/arabkirciner</PageURL>
+    <Thumbnail>http://graph.facebook.com/arabkirciner/picture?type=large</Thumbnail>
+    <Likes>4261</Likes>
+    <Category>
+    </Category>
+  </Page>
+  <Page>
+    <Name>Natoura Tour Company</Name>
+    <PageURL>http://www.facebook.com/NatouraTour</PageURL>
+    <Thumbnail>http://graph.facebook.com/NatouraTour/picture?type=large</Thumbnail>
+    <Likes>4226</Likes>
+    <Category>
+    </Category>
+  </Page>
+  <Page>
+    <Name>Ակսել Բակունց</Name>
+    <PageURL>http://www.facebook.com/55470572407</PageURL>
+    <Thumbnail>http://graph.facebook.com/55470572407/picture?type=large</Thumbnail>
+    <Likes>4071</Likes>
+    <Category>
+    </Category>
+  </Page>
+  <Page>
+    <Name>Armenia On Silk</Name>
+    <PageURL>http://www.facebook.com/122324217796208</PageURL>
+    <Thumbnail>http://graph.facebook.com/122324217796208/picture?type=large</Thumbnail>
+    <Likes>3834</Likes>
+    <Category>
+    </Category>
+  </Page>
+  <Page>
+    <Name>.::|Armenian Kino Theater|::.</Name>
+    <PageURL>http://www.facebook.com/370153128857</PageURL>
+    <Thumbnail>http://graph.facebook.com/370153128857/picture?type=large</Thumbnail>
+    <Likes>3815</Likes>
+    <Category>
+    </Category>
+  </Page>
+  <Page>
+    <Name>Հետաքրքիր փաստեր</Name>
+    <PageURL>http://www.facebook.com/171329996215407</PageURL>
+    <Thumbnail>http://graph.facebook.com/171329996215407/picture?type=large</Thumbnail>
+    <Likes>3812</Likes>
+    <Category>
+    </Category>
+  </Page>
+  <Page>
+    <Name>Zhamanak Daily Newspaper</Name>
+    <PageURL>http://www.facebook.com/270054696353907</PageURL>
+    <Thumbnail>http://graph.facebook.com/270054696353907/picture?type=large</Thumbnail>
+    <Likes>3692</Likes>
+    <Category>
+    </Category>
+  </Page>
+  <Page>
+    <Name>Yerevan State University</Name>
+    <PageURL>http://www.facebook.com/Yerevan.State.University</PageURL>
+    <Thumbnail>http://graph.facebook.com/Yerevan.State.University/picture?type=large</Thumbnail>
+    <Likes>3529</Likes>
+    <Category>
+    </Category>
+  </Page>
+  <Page>
+    <Name>My News</Name>
+    <PageURL>http://www.facebook.com/187696084626419</PageURL>
+    <Thumbnail>http://graph.facebook.com/187696084626419/picture?type=large</Thumbnail>
+    <Likes>3437</Likes>
+    <Category>
+    </Category>
+  </Page>
+  <Page>
+    <Name>Pop-Rock</Name>
+    <PageURL>http://www.facebook.com/POPROCKARM</PageURL>
+    <Thumbnail>http://graph.facebook.com/POPROCKARM/picture?type=large</Thumbnail>
+    <Likes>3368</Likes>
+    <Category>
+    </Category>
+  </Page>
+  <Page>
+    <Name>FREDERIQUE CONSTANT Armenia</Name>
+    <PageURL>http://www.facebook.com/207243259307665</PageURL>
+    <Thumbnail>http://graph.facebook.com/207243259307665/picture?type=large</Thumbnail>
+    <Likes>3316</Likes>
+    <Category>
+    </Category>
+  </Page>
+  <Page>
+    <Name>Hovhannes Aghajanyan</Name>
+    <PageURL>http://www.facebook.com/Hovhannes.Aghajanyan</PageURL>
+    <Thumbnail>http://graph.facebook.com/Hovhannes.Aghajanyan/picture?type=large</Thumbnail>
+    <Likes>3189</Likes>
+    <Category>
+    </Category>
+  </Page>
+  <Page>
+    <Name>Kokik Style</Name>
+    <PageURL>http://www.facebook.com/KokikStyle</PageURL>
+    <Thumbnail>http://graph.facebook.com/KokikStyle/picture?type=large</Thumbnail>
+    <Likes>3036</Likes>
+    <Category>
+    </Category>
+  </Page>
+  <Page>
+    <Name>DejaVu.am</Name>
+    <PageURL>http://www.facebook.com/DejaVu.am</PageURL>
+    <Thumbnail>http://graph.facebook.com/DejaVu.am/picture?type=large</Thumbnail>
+    <Likes>3035</Likes>
+    <Category>
+    </Category>
+  </Page>
+  <Page>
+    <Name>Time To Unite West And East</Name>
+    <PageURL>http://www.facebook.com/118001578251812</PageURL>
+    <Thumbnail>http://graph.facebook.com/118001578251812/picture?type=large</Thumbnail>
+    <Likes>2859</Likes>
+    <Category>
+    </Category>
+  </Page>
+  <Page>
+    <Name>Հումորի աշխարհ</Name>
+    <PageURL>http://www.facebook.com/crazymemories</PageURL>
+    <Thumbnail>http://graph.facebook.com/crazymemories/picture?type=large</Thumbnail>
+    <Likes>2855</Likes>
+    <Category>
+    </Category>
+  </Page>
+  <Page>
+    <Name>Internews Armenia</Name>
+    <PageURL>http://www.facebook.com/InternewsArmenia</PageURL>
+    <Thumbnail>http://graph.facebook.com/InternewsArmenia/picture?type=large</Thumbnail>
+    <Likes>2818</Likes>
+    <Category>
+    </Category>
+  </Page>
+  <Page>
+    <Name>Չքնողների Community</Name>
+    <PageURL>http://www.facebook.com/CHQNOX</PageURL>
+    <Thumbnail>http://graph.facebook.com/CHQNOX/picture?type=large</Thumbnail>
+    <Likes>2726</Likes>
+    <Category>
+    </Category>
+  </Page>
+  <Page>
+    <Name>Delete antiARMENIAN pages and groups</Name>
+    <PageURL>http://www.facebook.com/Armeniaforever</PageURL>
+    <Thumbnail>http://graph.facebook.com/Armeniaforever/picture?type=large</Thumbnail>
+    <Likes>2612</Likes>
+    <Category>
+    </Category>
+  </Page>
+  <Page>
+    <Name>Tigran II The Great</Name>
+    <PageURL>http://www.facebook.com/126579466533</PageURL>
+    <Thumbnail>http://graph.facebook.com/126579466533/picture?type=large</Thumbnail>
+    <Likes>2511</Likes>
+    <Category>
+    </Category>
+  </Page>
+  <Page>
+    <Name>Դեպի Արցախ</Name>
+    <PageURL>http://www.facebook.com/Birthright.Artsakh</PageURL>
+    <Thumbnail>http://graph.facebook.com/Birthright.Artsakh/picture?type=large</Thumbnail>
+    <Likes>2480</Likes>
+    <Category>
+    </Category>
+  </Page>
+  <Page>
+    <Name>Շոկոլադ</Name>
+    <PageURL>http://www.facebook.com/ShokoladLove</PageURL>
+    <Thumbnail>http://graph.facebook.com/ShokoladLove/picture?type=large</Thumbnail>
+    <Likes>2378</Likes>
+    <Category>
+    </Category>
+  </Page>
+  <Page>
+    <Name>MegaBit</Name>
+    <PageURL>http://www.facebook.com/megabit.am</PageURL>
+    <Thumbnail>http://graph.facebook.com/megabit.am/picture?type=large</Thumbnail>
+    <Likes>2332</Likes>
+    <Category>
+    </Category>
+  </Page>
+  <Page>
+    <Name>Armen Iskandaryan Photography</Name>
+    <PageURL>http://www.facebook.com/304664254584</PageURL>
+    <Thumbnail>http://graph.facebook.com/304664254584/picture?type=large</Thumbnail>
+    <Likes>2305</Likes>
+    <Category>
+    </Category>
+  </Page>
+  <Page>
+    <Name>Khachkar</Name>
+    <PageURL>http://www.facebook.com/196999037003458</PageURL>
+    <Thumbnail>http://graph.facebook.com/196999037003458/picture?type=large</Thumbnail>
+    <Likes>2287</Likes>
+    <Category>
+    </Category>
+  </Page>
+  <Page>
+    <Name>Jermuk</Name>
+    <PageURL>http://www.facebook.com/Jermuk.Armenia</PageURL>
+    <Thumbnail>http://graph.facebook.com/Jermuk.Armenia/picture?type=large</Thumbnail>
+    <Likes>2265</Likes>
+    <Category>
+    </Category>
+  </Page>
+  <Page>
+    <Name>Armen Movsisyan - Արմեն Մովսիսյան</Name>
+    <PageURL>http://www.facebook.com/59969747243</PageURL>
+    <Thumbnail>http://graph.facebook.com/59969747243/picture?type=large</Thumbnail>
+    <Likes>2242</Likes>
+    <Category>
+    </Category>
+  </Page>
+  <Page>
+    <Name>Hayafisha</Name>
+    <PageURL>http://www.facebook.com/111610615517661</PageURL>
+    <Thumbnail>http://graph.facebook.com/111610615517661/picture?type=large</Thumbnail>
+    <Likes>2235</Likes>
+    <Category>
+    </Category>
+  </Page>
+  <Page>
+    <Name>FlashMob Division</Name>
+    <PageURL>http://www.facebook.com/flashmobdivision</PageURL>
+    <Thumbnail>http://graph.facebook.com/flashmobdivision/picture?type=large</Thumbnail>
+    <Likes>2167</Likes>
+    <Category>
+    </Category>
+  </Page>
+  <Page>
+    <Name>Հայոց WikiLove</Name>
+    <PageURL>http://www.facebook.com/ArmenianWikiLove</PageURL>
+    <Thumbnail>http://graph.facebook.com/ArmenianWikiLove/picture?type=large</Thumbnail>
+    <Likes>2113</Likes>
+    <Category>
+    </Category>
+  </Page>
+  <Page>
+    <Name>"Պահանջվում է միլիոնատեր"</Name>
+    <PageURL>http://www.facebook.com/pahanjvumemilionater</PageURL>
+    <Thumbnail>http://graph.facebook.com/pahanjvumemilionater/picture?type=large</Thumbnail>
+    <Likes>2060</Likes>
+    <Category>
+    </Category>
+  </Page>
+  <Page>
+    <Name>Աֆորիզմներ</Name>
+    <PageURL>http://www.facebook.com/168728356480362</PageURL>
+    <Thumbnail>http://graph.facebook.com/168728356480362/picture?type=large</Thumbnail>
+    <Likes>1985</Likes>
+    <Category>
+    </Category>
+  </Page>
+  <Page>
+    <Name>OverdoseClub Yerevan</Name>
+    <PageURL>http://www.facebook.com/Yerevan.OverdoseClub</PageURL>
+    <Thumbnail>http://graph.facebook.com/Yerevan.OverdoseClub/picture?type=large</Thumbnail>
+    <Likes>1922</Likes>
+    <Category>
+    </Category>
+  </Page>
+  <Page>
+    <Name>Համակարգչային Օգնություն Բոլորին</Name>
+    <PageURL>http://www.facebook.com/compyutter</PageURL>
+    <Thumbnail>http://graph.facebook.com/compyutter/picture?type=large</Thumbnail>
+    <Likes>1896</Likes>
+    <Category>
+    </Category>
+  </Page>
+  <Page>
+    <Name>N2O Humor Club</Name>
+    <PageURL>http://www.facebook.com/189622151054371</PageURL>
+    <Thumbnail>http://graph.facebook.com/189622151054371/picture?type=large</Thumbnail>
+    <Likes>1734</Likes>
+    <Category>
+    </Category>
+  </Page>
+  <Page>
+    <Name>Miasin eritasardakan sharjum</Name>
+    <PageURL>http://www.facebook.com/miasinsharjum</PageURL>
+    <Thumbnail>http://graph.facebook.com/miasinsharjum/picture?type=large</Thumbnail>
+    <Likes>1543</Likes>
+    <Category>
+    </Category>
+  </Page>
+  <Page>
+    <Name>MuzZone.net</Name>
+    <PageURL>http://www.facebook.com/MuzZone.net</PageURL>
+    <Thumbnail>http://graph.facebook.com/MuzZone.net/picture?type=large</Thumbnail>
+    <Likes>1405</Likes>
+    <Category>
+    </Category>
+  </Page>
+  <Page>
+    <Name>Hayland.am</Name>
+    <PageURL>http://www.facebook.com/hayland.am</PageURL>
+    <Thumbnail>http://graph.facebook.com/hayland.am/picture?type=large</Thumbnail>
+    <Likes>1396</Likes>
+    <Category>
+    </Category>
+  </Page>
+  <Page>
+    <Name>Պաղպաղակ</Name>
+    <PageURL>http://www.facebook.com/paxpaxak</PageURL>
+    <Thumbnail>http://graph.facebook.com/paxpaxak/picture?type=large</Thumbnail>
+    <Likes>1393</Likes>
+    <Category>
+    </Category>
+  </Page>
+  <Page>
+    <Name>We love rock</Name>
+    <PageURL>http://www.facebook.com/armeniarock</PageURL>
+    <Thumbnail>http://graph.facebook.com/armeniarock/picture?type=large</Thumbnail>
+    <Likes>1380</Likes>
+    <Category>
+    </Category>
+  </Page>
+  <Page>
+    <Name>BabyCare.am</Name>
+    <PageURL>http://www.facebook.com/BabyCare.am</PageURL>
+    <Thumbnail>http://graph.facebook.com/BabyCare.am/picture?type=large</Thumbnail>
+    <Likes>1177</Likes>
+    <Category>
+    </Category>
+  </Page>
+  <Page>
+    <Name>SmartBuy</Name>
+    <PageURL>http://www.facebook.com/SmartBuy.am</PageURL>
+    <Thumbnail>http://graph.facebook.com/SmartBuy.am/picture?type=large</Thumbnail>
+    <Likes>1151</Likes>
+    <Category>
+    </Category>
+  </Page>
+  <Page>
+    <Name>Anti "Մեկ Ազգ" </Name>
+    <PageURL>http://www.facebook.com/anti1azg</PageURL>
+    <Thumbnail>http://graph.facebook.com/anti1azg/picture?type=large</Thumbnail>
+    <Likes>978</Likes>
+    <Category>
+    </Category>
+  </Page>
+  <Page>
+    <Name>ԹԵԺ Music (Ռաբիզների մուտքն արգելվում է)</Name>
+    <PageURL>http://www.facebook.com/TejMusic</PageURL>
+    <Thumbnail>http://graph.facebook.com/TejMusic/picture?type=large</Thumbnail>
+    <Likes>375</Likes>
+    <Category>
+    </Category>
+  </Page>
+  <Page>
+    <Name>ԳՐՔԵՐ, որ պետք է կարդալ</Name>
+    <PageURL>http://www.facebook.com/grqer</PageURL>
+    <Thumbnail>http://graph.facebook.com/grqer/picture?type=large</Thumbnail>
+    <Likes>133</Likes>
     <Category>
     </Category>
   </Page>
