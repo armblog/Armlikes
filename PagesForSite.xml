@@ -1,11 +1,19 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Pages updateTime="22/02/2021 14:02">
+<Pages updateTime="23/02/2021 11:37">
   <Page>
     <Name>Khloe Kardashian</Name>
     <PageURL>http://www.facebook.com/KhloeKardashian</PageURL>
     <Thumbnail>http://graph.facebook.com/KhloeKardashian/picture?type=large</Thumbnail>
     <Likes>18287633</Likes>
     <Category>People</Category>
+  </Page>
+  <Page>
+    <Name>Ara Malikian</Name>
+    <PageURL>http://www.facebook.com/Ara.Malikian.violin</PageURL>
+    <Thumbnail>http://graph.facebook.com/Ara.Malikian.violin/picture?type=large</Thumbnail>
+    <Likes>18286482</Likes>
+    <Category>
+    </Category>
   </Page>
   <Page>
     <Name>Kourtney Kardashian</Name>
